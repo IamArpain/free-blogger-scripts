@@ -1,4 +1,4 @@
-<script>//<![CDATA[
+<script>
 ! function(e) {
     "use strict";
 
@@ -104,4 +104,4 @@ function() {
         })
     }(document)
 }.call(this);
-//]]></script>
+</script>
